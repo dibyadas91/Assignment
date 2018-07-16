@@ -1,0 +1,5 @@
+userID:,sessionID:,timestamp,clickedPoint,missionID,isHit,TeamID,TeamLevel,AssignmentId
+Long,Long,Date,Coordinates,Long,yes/no,Long,String,long
+100,4356,10/12/2015::14:15:09,"(4,8)",13,yes,10000,Three,1
+101,3241,10/23/2015::14:15:19,"(20,5)",18,no,10100,Four,2
+102,4537,11/4/2015::14:15:20,"(17,43)",21,mo,10100,Five,4
